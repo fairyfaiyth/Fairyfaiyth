@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Faith Mutisya
 
-<!--
-**fairyfaiyth/Fairyfaiyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning programming and exploring how technology and websites are built
+- I'm interested in coding and web development
+- I'm looking to collaborate on beginner-friendly open source project
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- python,HTML,programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email:faiythmutisya@gmail.com
+- LinkedIn: [your LinkedIn profile link
