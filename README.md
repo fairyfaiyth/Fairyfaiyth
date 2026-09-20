@@ -15,3 +15,6 @@
 ## How to Reach Me
 - Email:faiythmutisya@gmail.com
 - LinkedIn: [your LinkedIn profile link
+- 
+## Links
+- My Website: https://fairyfaiyth.github.io/Fairyfaiyth
