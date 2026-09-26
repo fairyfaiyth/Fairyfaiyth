@@ -21,4 +21,5 @@
 
 ## terminal output
 user.name=fairyfaiyth
+
 user.email=faiythmutisya@gmail.com
