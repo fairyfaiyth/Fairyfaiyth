@@ -18,3 +18,7 @@
 - 
 ## Links
 - My Website: https://fairyfaiyth.github.io/Fairyfaiyth
+
+## terminal output
+user.name=fairyfaiyth
+user.email=faiythmutisya@gmail.com
