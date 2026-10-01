@@ -8,18 +8,21 @@
 ## Skills I'm Building
 - Git and GitHub
 - python,HTML,programming fundamentals
+  
+# Course Deliverables
 
-## Current Projects
-- [Project name](link) — short description
+* [My Live Page](https://fairyfaiyth.github.io/fairyfaiyth)
+* [Markdown Practice Exercises](./markdown-practice.md)
 
 ## How to Reach Me
 - Email:faiythmutisya@gmail.com
-- LinkedIn: [your LinkedIn profile link
-- 
+  
 ## Links
-- My Website: https://fairyfaiyth.github.io/Fairyfaiyth
+- My Website: https://fairyfaiyth.github.io/fairyfaiyth
 
 ## terminal output
 user.name=fairyfaiyth
 
 user.email=faiythmutisya@gmail.com
+
+
